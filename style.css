@@ -1,0 +1,30 @@
+#header{
+    background-color: #FFCD9E;
+    padding-top: 84px;
+    padding-left: 137px;
+    padding-bottom: 116px;
+    
+}
+.container{
+    text-align: center;
+}
+h4{
+    font-family: 'Inter';
+}
+
+.input{
+    border-left: 2px;
+}
+
+p{
+    color: white;
+    size: 1ch;
+}
+#footer{
+    background-color: black;
+    padding-top: 84px;
+    padding-left: 50px;
+    padding-bottom: 116px;
+    
+    
+}
